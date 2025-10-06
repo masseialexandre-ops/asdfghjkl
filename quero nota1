@@ -1,0 +1,9 @@
+:root{
+  --cor-pricipal: #6e859f;
+  --cor-segundaria: #284260;
+  --cor-destaque: #c92bfc;
+}
+
+body{
+  font-family: 'chakra Petch', sans serif;
+}
